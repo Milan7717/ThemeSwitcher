@@ -1,0 +1,8 @@
+.fa-solid{
+    position: absolute;
+    cursor: pointer;
+}
+
+#hide{
+    visibility: hidden;
+}
